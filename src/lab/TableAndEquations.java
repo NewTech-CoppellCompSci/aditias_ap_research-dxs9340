@@ -48,9 +48,6 @@ public class TableAndEquations {
         }
         System.out.println("\n");
     }
-
-
-	class PythagoreanTheorem {
 		
 		// length of side a
 		double a = 3.0;
@@ -63,8 +60,6 @@ public class TableAndEquations {
 	    System.out.println("Length of side b: " + b);
 	    System.out.println("Length of side c (hypotenuse): " + c);
 	    System.out.println("c^2 = a^2 + b^2 : "  + c*c + " = " + a*a + " + " + b*b);
-		
-	}
 	
 
 }
